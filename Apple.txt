@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <title>Apple Watch Series 6</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <style>
+  body {
+  background-color:black;
+  color: White;
+}
+</style>
+</head>
+<body>
+
+<div class="row">
+    <div class="col-sm-1" style="background-color:black;"></div>
+    <div class="col-sm-1" style="background-color:black;"></div>
+    <div class="col-sm-1" style="background-color:black;">Store</div>
+    <div class="col-sm-1" style="background-color:black;">Mac</div>
+    <div class="col-sm-1" style="background-color:black;">iPad</div>
+    <div class="col-sm-1" style="background-color:black;">iPhone</div>
+    <div class="col-sm-1" style="background-color:black;">Watch</div>
+    <div class="col-sm-1" style="background-color:black;">TV</div>
+    <div class="col-sm-1" style="background-color:black;">Music</div>
+    <div class="col-sm-1" style="background-color:black;">Support</div>
+   </div>
+<div class="jumbotron text-center">
+  <style>
+h4 {
+  background-color: black;
+}
+</style>
+<img class="center"src="https://media.idownloadblog.com/wp-content/uploads/2020/09/Apple-Watch-blood-oxygen-app-image-001.jpg" class="img-rounded" alt="Watch" width="1200" height="1000">
+  <h2>Apple Watch <br> <span style="color:Red">Series 6</span></h2>
+</div>
+<div class="container">
+   <h1 align="center"><span style="color:grey"><h1>WATCH <br>SERIES</h1>
+ <h1 align="center"><span style="color:white"><h1>The future of health is on your wrist.</h1>
+  <h2 align="center"><span style="color:White"><h2>Measure your blood oxygen level with a revolutionary sensor and app. Take an ECG anytime, anywhere. See your fitness metrics at a glance with the enhanced Always-On Retina display. With Apple Watch Series 6 on your wrist, a healthier, more active, more connected life is within reach.
+ </h2>
+ <h1><span style="color:grey">Blood Oxygen</span></h1>
+ <h3>A breath of fresh innovation.</h3>
+
+
+ <br>
+ <br>
+ <br>
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+      <h4>Your blood oxygen level is a key
+indicator of your overall wellness.
+It can help you understand how
+well your body is absorbing oxygen,
+and the amount of oxygen delivered
+to your body. The remarkable sensor
+and app in Apple Watch Series 6
+allow you to take on-demand
+readings of your blood oxygen
+as well as background readings,
+day and night.</h4>
+    </div>
+    <div class="col-sm-4">
+    <img class="img-responsive"src="https://www.apple.com/v/apple-watch-series-6/d/images/meta/gps-lte/og__bipyalaol64i.png" class="img-rounded" alt="Watch" width="450" height="300">
+     </div>
+  </div>
+</div>
+<br>
+<br>
+<br>
+<br>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+      
+      <h4>Breakthrough sensor. Powerful insights. <span style="color:grey">The blood oxygen sensor is
+made up of four LED clusters and
+four photodiodes. Incorporated into
+the completely redesigned back
+crystal, this sensor works in concert
+with the Blood Oxygen app to
+determine your blood oxygen level.</span></h4>
+
+    </div>
+    <div class="container">
+<img class="img-responsive"src="https://images.macrumors.com/article-new/2014/09/applewatchseries6design-1.jpg" class="img-rounded" alt="Watch" width="304" height="236"> 
+
+    </div>
+  </div>
+</div>
+</body>
+</html>
+
+<br>
+<br>
+<br><h4 align="left">Deeply illuminating. <span style="color:grey">Green, red and <br>infrared LEDs shine light onto the <br>blood vessels in your wrist, and <br>photodiodes measure the amount of <br>light reflected back. <br>Advanced algorithms then calculate the colour of <br>your blood, which indicates the <br>amount of oxygen present.</span></h4>
+<br>
+<br>
+<br>
+<br>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+        <img src="https://ishop-admin.com/images/companies/29/Apple_watch_6_4%20(1).jpg?1606229372168" class="img-rounded" alt="Watch" width="300" height="300"> 
+    </div>
+    <div class="col-sm-4">
+    <h1><span style="color:grey">ECG</span><br>
+On your wrist.<br> 
+Anytime.<br>
+Anywhere.</h1>
+<h4>With the ECG app, Apple Watch Series 6 is capable of generating an ECG similar to a single-lead electrocardiogram. It’s a momentous achievement for a wearable device that can provide critical data for doctors and peace of mind for you.</h4>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h3>Your finger can tell you a lot about your heart.<span style="color:grey"> Electrodes built into the Digital Crown and the back crystal work together with the ECG app to read your heart’s electrical signals. Simply touch the Digital Crown to generate an ECG waveform in just 30 seconds. The ECG app can indicate whether your heart rhythm shows signs of atrial fibrillation — a serious form of irregular heart rhythm — or sinus rhythm, which means your heart is beating in a normal pattern.</span></h3>
+      </div>
+  </div>
+</div>
+<br>
+<br>
+<br>
+<h1 align="left"><span style="color:grey">Sleep</span><br>
+A better day begins<br>
+with a better night.</h1>
+<br>
+<h4 align="left">Getting the right amount of sleep is important for good<br> health. The Sleep app helps you establish a regular bedtime <br>routine and keep track of your sleep trends night after night.<br> So you can set and achieve your personal sleep goals.</h4>
+<br>
+<br>
+<img src="https://www.wareable.com/media/imager/202103/35423-original.jpg" class="img-rounded" alt="Watch" width="500" height="300"> 
+<br>
+<br>
+<br>
+<br>
+<img src="https://9to5toys.com/wp-content/uploads/sites/5/2020/09/apple-watch-series-6.jpg?resize=1200,600" alt="Watch" width="500" height="300"> 
+<br>
+<br>
+<br>
+<br>
+<h1><span style="color:grey">Fitness</span><br>
+We pushed it further.<br>
+To push you further.</h1>
+<br>
+<br>
+<h4>When it comes to staying fit, knowledge is power. Get inspiration <br>to keep moving and track your workout metrics more precisely<br> than ever — in the water, at the gym or out on the road. Series 6<br> is Apple Watch at its best. To help you be your best.</h4>
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+    </div>
+    <div class="col-sm-4">
+    <h1><span style="color:grey">Motivation</span><br>
+Inspiration for your<br>
+perspiration.</h1>
+<br>
+<br>
+<h4>Music and Podcasts <span style="color:grey">Listen to whatever motivates you to move. Including 75 million songs on Apple Music.4</span></h4>
+<br>
+<img src="https://www.bosshunting.com.au/wp-content/uploads/2020/11/spotify-apple-watch.jpg" class="img-rounded" alt="Watch" width="300" height="200">
+<br>
+<br>
+<h4>Activity Rings. <span style="color:grey">Stay motivated to sit less, move more and get some exercise. Day after day.</span></h4>
+<br>
+<img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/apple-watch-rings-index-1603114531.jpg" class="img-rounded" alt="Watch" width="300" height="300"> 
+<br>
+<br>
+<h4>Activity Sharing. <span style="color:grey">Share your Activity rings with friends and family to encourage each other.</span></h4>
+<br>
+<img src="https://support.apple.com/library/content/dam/edam/applecare/images/en_US/applewatch/watchos7-series6-activity-sharing.jpg" class="img-rounded" alt="Watch" width="300" height="300">
+<br>
+<br>
+<h4>Competitions. <span style="color:grey">Invite friends to compete in a 7-day Activity challenge.</span></h4>
+<br>
+<img src="https://img.poorvika.com/data/description/Apple-Watch-Series-6-GPS/Apple-Watch-Series-6-Competitions.jpg" class="img-rounded" alt="Watch" width="300" height="300">
+<br>
+<br>
+      </div>
+  </div>
+</div>
+<br>
+<br>
+<br>
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+    <img src="https://as01.epimg.net/meristation/imagenes/2020/09/24/betech/1600966182_326599_1600968925_noticia_normal.jpg" class="img-rounded" alt="Watch" width="300" height="300">
+    </div>
+    <div class="col-sm-4">
+      <h2><span style="color:grey">Finishes</span><br>
+One case,<br>
+two case,<br>
+red case,<br>
+blue case.</h2>
+<h5>(PRODUCT)RED and blue aluminium cases join our most colourful line-up yet. Choose from a range of materials, including titanium, stainless steel and 100% recycled aluminium.</h5>
+    </div>
+    <div class="col-sm-4">
+    <img src="https://as01.epimg.net/meristation/imagenes/2020/09/24/betech/1600966182_326599_1600968925_noticia_normal.jpg" class="img-rounded" alt="Watch" width="300" height="300">
+    </div>
+  </div>
+</div>
+<br>
+<br>
+<br>
+<h1><span style="color:grey">Solo Loop</span><br>
+Slip on something new.
+</h1>
+<br>
+<h4>An innovative seamless strap joins the <br>Apple Watch Series 6 line-up, without a <br>clasp or buckle in sight. Available in two <br>materials and nine custom sizes, tailored to <br>the size of your wrist.</h4>
+<br>
+<br>
+<br>
+<br>
+<div class="container">
+<div class="row">
+<div class="col-sm-4">
+        <img src="https://www.ispazio.net/wp-content/uploads/2020/09/Apple-Watch-Series-6-7.jpg" class="img-rounded" alt="Watch" width="340" height="340">
+        </div>
+      
+  <div class="row">
+    <div class="col-sm-4">
+      <h4>Solo Loop. <span style="color:grey">Crafted from a soft, stretchable silicone rubber, the Solo Loop is ultra-comfortable, lightweight and surprisingly easy to slip on and off.</span></h4>
+        <br>
+          <br>
+          
+<h4>Braided Solo Loop.<span style="color:grey">
+Silicone threads are interwoven with over 16,000 recycled polyester yarn filaments to create a strap that’s as textural and stretchable as it is beautiful.</span></h4>
+    </div>
+    <div class="col-sm-4">
+    </div>
+  </div>
+</div>
+<br>
+<br>
+<br>
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+    <img class="center" src="https://media.idownloadblog.com/wp-content/uploads/2020/09/apple-watch-series-6-display.jpg" class="img-rounded" alt="Watch" width="340" height="340">
+        </div>
+      
+    </div>
+    <div class="col-sm-4">
+    <h1><span style="color:grey">Display</span>
+Always on.<br>
+Better than ever..</h1>
+<h4>The Always-On Retina display is now significantly brighter outdoors when your wrist is down. So you can see all the information on your watch face more easily than ever — without having to raise your wrist to wake your watch.
+</h4>
+<br>
+<br>
+<img class="center" src="https://www.apple.com/newsroom/images/product/watch/standard/Apple_delivers-apple-watch-series-6_09152020_big.jpg.large.jpg" class="img-rounded" alt="Watch" width="340" height="340">
+<h4>Always-on access. <span style="color:grey">Swipe down for Notification Centre, swipe up for Control Centre or tap complications in the wrist-down state. No need to wake your watch for simple interactions when you’re in a meeting or otherwise occupied.</span></h4>
+
+      </div>
+  </div>
+</div>
+<br>
+<br>
+<h1><span style="color:grey">Fresh Faces</span><br>
+Countless ways to<br>
+rearrange your face.</h1>
+<br>
+<h4>Choose from the most faces ever, then customise them to match your mood, style or favourite activity — for a face that’s as unique as your own.</h4>
+<img class="center" src="https://img.poorvika.com/data/description/Apple-Watch-Series-6-GPS/Apple-Watch-Series-6-clip.png" class="img-rounded" alt="Watch" width="340" height="340">
+<br>
+<br>
+<br>
+<h4>There’s a face for that. <span style="color:grey">Now you can easily discover and share custom faces for whoever you are and whatever you’re into — with all the information that matters most all in one place. Find your favourites on the App Store, the web or social media.</span></h4>
+<img class="center" src="https://media.wired.com/photos/5f61116b1bae274a0ebcea33/191:100/w_2400,h_1256,c_limit/Gear-New-Apple-Watch.jpg" class="img-rounded" alt="Watch" width="700" height="340">
+<br>
+<br>
+<br>
+<br>
+<h1><span style="color:grey">Stay Connected</span><br>
+Everything you need.<br>
+Anywhere you go.</h1>
+<br>
+<br>
+<h4>Apple Watch Series 6 keeps the people and things you care about right there with you, no matter where life takes you. And with available cellular, you can stay connected even when you don’t have your phone.</h4>
+<br>
+<img class="center" src="https://ams.iqmetrix.net/images/49fdcbbd-dc61-4f59-8de6-09f67f4378fd/preview/1130/480" class="img-rounded" alt="Watch" width="500" height="500">
+<br>
+<br>
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+    <img src="https://assets.materialup.com/uploads/86c340f5-9b71-4f41-8e6c-30f64750cc39/preview.png" class="img-rounded" alt="Watch" width="200" height="200">
+    </div>
+    <div class="col-sm-4">
+    <br>
+    <br>
+<h4>Phone and Messages. <span style="color:grey">Call and text right from your wrist.</span></h4>
+      </div>
+  </div>
+</div>
+<br>
+<br>
+<br>
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+    <h4>Wallet. <span style="color:grey">Store your boarding pass, movie tickets or rewards cards for easy access.</span></h4>
+    </div>
+    <div class="col-sm-4">
+      <img src="https://www.apple.com/newsroom/images/product/os/watchos/standard/apple_wwdc21-watchos8_focus-fitness_06072021_inline.jpg.large.jpg" class="img-rounded" alt="Watch" width="200" height="200">
+      </div>
+  </div>
+</div>
+<br>
+<br>
+<br>
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+      <img src="https://img.poorvika.com/data/description/Apple-Watch-Series-6-GPS/Apple-Watch-Series-6-siri.jpg" class="img-rounded" alt="Watch" width="200" height="200">
+    </div>
+    <div class="col-sm-4">
+<h4>Siri. <span style="color:grey">Get help with just about anything, simply by asking. Including translations.</span></h4>
+      </div>
+  </div>
+</div>
+<br>
+<br>
+<br>
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+    <h4>Maps. <span style="color:grey">Get a tap on the wrist telling you when to turn. In the car, on your bike, on foot or on transit.</span></h4>
+    </div>
+    <div class="col-sm-4">
+      <img src="https://blog.poorvika.com/wp-content/uploads/2021/06/Apple-Watch-Series-6-maps.jpg" class="img-rounded" alt="Watch" width="300" height="300">
+      </div>
+  </div>
+</div>
+<br>
+<br>
+<br>
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+
+<h1>Use AR to see<br>
+Apple Watch<br>
+Series 6.</h1>
+<br>
+<br>
+<p>
+Just open this page in Safari
+on your iPhone or iPad.</p>
+     </div>
+    <div class="col-sm-4">
+     <img src="https://cdn.iphoneincanada.ca/wp-content/uploads/2020/09/apple-watch-series-6-AR.png" class="img-rounded" alt="Watch" width="300" height="300">
+      </div>
+  </div>
+</div>
+<br>
+<br>
+<br>
+<div class="jumbotron text-center">
+<style>
+div {
+  background-color: black;
+}
+</style>
+<style>
+h2 {
+background-color: black;
+}
+</style>
+<h2>Which Apple Watch is right for you?</h2>
+<br>
+<br>
+<br>
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+    <img src="https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/watch-compare-s6-202009_GEO_MY_FMT_WHH?wid=268&hei=314&fmt=jpeg&qlt=80&.v=1602207991000" class="img-rounded" alt="Watch" width="300" height="300">
+      <h3>Apple Watch Series 6</h3>
+      <p>From ₹40900*
+
+44 mm or 40 mm case size
+<br>
+<br>
+
+Always-On Retina display
+<br>
+<br>
+
+ 
+
+GPS + Cellular5
+
+GPS
+<br>
+<br>
+
+Blood Oxygen app1
+<br><br>
+ECG app2<br><br>
+High and low heart rate notifications
+
+Irregular heart rhythm notification3<br><br>
+Water resistant to 50 metres8</p>
+      
+    </div>
+    <div class="col-sm-4">
+    <img src="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MTP72_VW_34FR+watch-40-alum-gold-nc-se_VW_34FR_WF_CO?wid=1400&hei=1400&trim=1,0&fmt=p-jpg&qlt=95&.v=1566449884261,1623883751000" class="img-rounded" alt="Watch" width="300" height="300">
+      <h3>Apple Watch SE</h3>
+      <p>From ₹29900*
+
+44 mm or 40 mm case size
+
+ 
+
+Retina display<br><br>
+
+GPS + Cellular5
+
+GPS<br>
+<br>
+ 
+
+ 
+
+High and low heart rate notifications
+Irregular heart rhythm notification3<br><br>
+Water resistant to 50 metres8</p>
+      
+    </div>
+    <div class="col-sm-4">
+    <img src="https://i.gadgets360cdn.com/products/wearables/large/1551968931_832_apple_watch-series-3-gps-smartwatch.jpg" class="img-rounded" alt="Watch" width="300" height="300">
+      <h3>Apple Watch Series 3</h3>        
+      <p>From ₹20900*
+
+42 mm or 38 mm case size
+
+ <br>
+<br>
+Retina display
+
+ 
+<br><br><br>
+GPS
+
+ 
+
+ <br><br>
+
+High and low heart rate notifications
+
+Irregular heart rhythm notification3<br><br>
+Water resistant to 50 metres8</p>
+      
+    </div>
+  </div>
+</div>
+</div>
+<br>
+<br>
+<h5><h5 align="center"><span style="color:grey">*Listed pricing is Maximum Retail Price (inclusive of all taxes).<br>
+1.Blood Oxygen app measurements are not intended for medical use, including self-diagnosis or consultation with a doctor, and are only designed for general fitness and wellness purposes.<br>
+2.The ECG app requires watchOS 6 or later on Apple Watch Series 4 or later (not including Apple Watch SE), and iPhone 6s or later with the latest version of iOS. It is not intended for use by people under 22 years old. See apple.com/in/watch for compatibility details.<br>
+3.Irregular rhythm notification requires watchOS 6 or later, and iPhone 6s or later with the latest version of iOS. It is not intended for use by people under 22 years old or those who have been previously diagnosed with atrial fibrillation (Afib). See apple.com/in/watch for compatibility details.<br>
+4.Apple Music requires a subscription.<br>
+5.Wireless service plan is required for cellular service. Contact your service provider for more details. Connection may vary based on network availability. International roaming is not supported. Check apple.com/in/watch/cellular for participating wireless carriers and eligibility. See support.apple.com/en-in/HT207578 for additional setup instructions.<br>
+6.The international emergency calling feature requires an Apple Watch Series 6 (GPS + Cellular) or Apple Watch SE (GPS + Cellular) model. For a list of supported countries and regions see apple.com/in/watchos/feature-availability.<br>
+7.Apple Watch Series 6 (GPS + Cellular) and Apple Watch SE (GPS + Cellular) can use a cellular connection for Emergency SOS. To use Emergency SOS on an Apple Watch without cellular, your iPhone needs to be nearby. If your iPhone isn’t nearby, your Apple Watch needs to be connected to a known Wi-Fi network and you must set up Wi-Fi Calling.<br>
+8.Apple Watch Series 6, Apple Watch SE and Apple Watch Series 3 have a water resistance rating of 50 metres under ISO standard 22810:2010. This means that
+they may be used for shallow-water activities like swimming in a pool or ocean. However, they should not be used for scuba diving, waterskiing or other activities
+involving high-velocity water or submersion below shallow depth.<br>
+<br>
+Some straps are sold separately.<br>
+Apple Watch Series requires an iPhone 6s or later with iOS 14 or later.<br>
+Features are subject to change. Some features, applications and services may not be available in all regions or all languages. View the complete list.</span></h5>
+</body>
+</html>
